@@ -31,26 +31,4 @@ VALUES
 ('Logistics Assistant Manager', 42000, 6),
 ('Logistics Manager', 46000, 6);
 
-INSERT INTO employee (first_name, last_name, role_id)
-VALUES
-('James', 'Fraser', 1),
-    ('Jack', 'London', 2),
-    ('Robert', 'Bruce', 3),
-    ('Peter', 'Greenaway', 4),
-    ('Derek', 'Jarman', 5),
-    ('Paolo', 'Pasolini', 6),
-    ('Heathcote', 'Williams', 7),
-    ('Sandy', 'Powell', 8),
-    ('Emil', 'Zola', 9),
-    ('Sissy', 'Coalpits', 10),
-    ('Antoinette', 'Capet', 11),
-    ('Samuel', 'Delany', 12),
-    ('Tony', 'Duvert', 13),
-    ('Dennis', 'Cooper', 14),
-    ('Monica', 'Bellucci', 15),
-    ('Samuel', 'Johnson', 16),
-    ('John', 'Dryden', 17),
-    ('Alexander', 'Pope', 18),
-    ('Lionel', 'Johnson', 19),
-    ('Aubrey', 'Beardsley', 20),
-    ('Tulse', 'Luper', 21);
+
